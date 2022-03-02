@@ -1,0 +1,4 @@
+# AmazinGWallet
+
+Multi-chain crypto wallet backend with support for swaps and L2 chains like Arbitrum, Optimism, Base.
+# commit

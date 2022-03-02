@@ -1,0 +1,2 @@
+def swap_tokens(from_token, to_token, amount):
+    return {"status": "simulated", "from": from_token, "to": to_token, "amount": amount}

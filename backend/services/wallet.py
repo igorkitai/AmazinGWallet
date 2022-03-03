@@ -161,3 +161,4 @@ class WalletService:
 # commit
 # commit
 # commit
+"if __name__ == ""__main__"": app.run()"

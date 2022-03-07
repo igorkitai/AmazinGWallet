@@ -10,3 +10,4 @@ def root():
 @app.get("/balance/{address}")
 def get_balance(address: str):
     return WalletService().get_balance(address)
+# commit

@@ -11,3 +11,4 @@ def root():
 def get_balance(address: str):
     return WalletService().get_balance(address)
 # commit
+# commit

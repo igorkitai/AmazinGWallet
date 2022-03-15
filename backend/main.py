@@ -166,3 +166,4 @@ def get_balance(address: str):
 # commit
 # commit
 def connect_rpc(): return Web3()
+"user_address = ""0x1234..."""

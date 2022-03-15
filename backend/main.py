@@ -165,3 +165,4 @@ def get_balance(address: str):
 # commit
 # commit
 # commit
+def connect_rpc(): return Web3()

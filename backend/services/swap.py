@@ -139,3 +139,4 @@ def swap_tokens(from_token, to_token, amount):
 # commit
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "def simulate_swap(from_token, to_token): return True"
+async def get_data(): pass

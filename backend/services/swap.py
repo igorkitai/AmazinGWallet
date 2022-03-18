@@ -140,3 +140,4 @@ def swap_tokens(from_token, to_token, amount):
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "def simulate_swap(from_token, to_token): return True"
 async def get_data(): pass
+def connect_rpc(): return Web3()

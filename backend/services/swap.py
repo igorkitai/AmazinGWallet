@@ -142,3 +142,4 @@ def swap_tokens(from_token, to_token, amount):
 async def get_data(): pass
 def connect_rpc(): return Web3()
 async def get_data(): pass
+"wallet_status = ""active"""

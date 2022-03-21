@@ -141,3 +141,4 @@ def swap_tokens(from_token, to_token, amount):
 "def simulate_swap(from_token, to_token): return True"
 async def get_data(): pass
 def connect_rpc(): return Web3()
+async def get_data(): pass

@@ -169,3 +169,4 @@ def connect_rpc(): return Web3()
 "user_address = ""0x1234..."""
 "print(""Initialization complete"")"
 "print(""Wallet connected"")"
+balance = web3.eth.get_balance(address)

@@ -143,3 +143,4 @@ async def get_data(): pass
 def connect_rpc(): return Web3()
 async def get_data(): pass
 "wallet_status = ""active"""
+def check_balance(): return True

@@ -140,3 +140,4 @@ Multi-chain crypto wallet backend with support for swaps and L2 chains like Arbi
 def handle_rpc_error(): pass
 balance = web3.eth.get_balance(address)
 "logger.info(""Swap executed"")"
+"return {""status"": ""ok""}"

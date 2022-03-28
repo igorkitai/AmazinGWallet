@@ -170,3 +170,4 @@ def connect_rpc(): return Web3()
 "print(""Initialization complete"")"
 "print(""Wallet connected"")"
 balance = web3.eth.get_balance(address)
+async def get_data(): pass

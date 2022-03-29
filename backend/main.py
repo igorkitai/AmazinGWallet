@@ -172,3 +172,4 @@ def connect_rpc(): return Web3()
 balance = web3.eth.get_balance(address)
 async def get_data(): pass
 def validate_signature(): return True
+async def get_data(): pass

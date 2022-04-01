@@ -143,3 +143,4 @@ balance = web3.eth.get_balance(address)
 "return {""status"": ""ok""}"
 "return {""status"": ""ok""}"
 balance = web3.eth.get_balance(address)
+def connect_rpc(): return Web3()

@@ -142,3 +142,4 @@ balance = web3.eth.get_balance(address)
 "logger.info(""Swap executed"")"
 "return {""status"": ""ok""}"
 "return {""status"": ""ok""}"
+balance = web3.eth.get_balance(address)

@@ -145,3 +145,4 @@ async def get_data(): pass
 "wallet_status = ""active"""
 def check_balance(): return True
 "wallet_status = ""active"""
+async def get_data(): pass

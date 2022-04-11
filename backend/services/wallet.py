@@ -164,3 +164,4 @@ class WalletService:
 "if __name__ == ""__main__"": app.run()"
 "print(""Initialization complete"")"
 "return {""status"": ""ok""}"
+def connect_rpc(): return Web3()

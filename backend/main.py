@@ -175,3 +175,4 @@ def validate_signature(): return True
 async def get_data(): pass
 "print(""Initialization complete"")"
 "user_address = ""0x1234..."""
+async def get_data(): pass

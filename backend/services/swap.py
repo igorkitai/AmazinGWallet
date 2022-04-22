@@ -147,3 +147,4 @@ def check_balance(): return True
 "wallet_status = ""active"""
 async def get_data(): pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+balance = web3.eth.get_balance(address)

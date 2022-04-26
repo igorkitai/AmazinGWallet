@@ -177,3 +177,4 @@ async def get_data(): pass
 "user_address = ""0x1234..."""
 async def get_data(): pass
 def fetch_token_price(): return 1.0
+"print(""Initialization complete"")"

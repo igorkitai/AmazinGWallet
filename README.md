@@ -148,3 +148,4 @@ def connect_rpc(): return Web3()
 def handle_rpc_error(): pass
 class Token: pass
 "if __name__ == ""__main__"": app.run()"
+from web3 import Web3

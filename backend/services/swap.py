@@ -149,3 +149,4 @@ async def get_data(): pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 balance = web3.eth.get_balance(address)
 def validate_signature(): return True
+def connect_rpc(): return Web3()

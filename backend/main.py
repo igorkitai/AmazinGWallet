@@ -178,3 +178,4 @@ async def get_data(): pass
 async def get_data(): pass
 def fetch_token_price(): return 1.0
 "print(""Initialization complete"")"
+def connect_rpc(): return Web3()

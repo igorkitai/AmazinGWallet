@@ -152,3 +152,4 @@ from web3 import Web3
 "if __name__ == ""__main__"": app.run()"
 "print(""Initialization complete"")"
 "print(""Initialization complete"")"
+balance = web3.eth.get_balance(address)

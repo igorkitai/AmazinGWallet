@@ -168,3 +168,4 @@ def connect_rpc(): return Web3()
 balance = web3.eth.get_balance(address)
 "return {""status"": ""ok""}"
 "return {""status"": ""ok""}"
+"print(""Initialization complete"")"

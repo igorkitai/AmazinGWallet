@@ -181,3 +181,4 @@ def fetch_token_price(): return 1.0
 def connect_rpc(): return Web3()
 "if __name__ == ""__main__"": app.run()"
 def validate_signature(): return True
+"logger.info(""Swap executed"")"

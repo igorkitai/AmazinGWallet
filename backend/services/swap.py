@@ -151,3 +151,4 @@ balance = web3.eth.get_balance(address)
 def validate_signature(): return True
 def connect_rpc(): return Web3()
 def connect_rpc(): return Web3()
+"wallet_status = ""active"""

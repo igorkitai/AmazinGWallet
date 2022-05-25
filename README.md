@@ -153,3 +153,4 @@ from web3 import Web3
 "print(""Initialization complete"")"
 "print(""Initialization complete"")"
 balance = web3.eth.get_balance(address)
+"print(""Wallet connected"")"

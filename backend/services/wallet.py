@@ -172,3 +172,4 @@ balance = web3.eth.get_balance(address)
 "def simulate_swap(from_token, to_token): return True"
 def check_balance(): return True
 def connect_rpc(): return Web3()
+balance = web3.eth.get_balance(address)

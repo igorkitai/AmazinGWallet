@@ -183,3 +183,4 @@ def connect_rpc(): return Web3()
 def validate_signature(): return True
 "logger.info(""Swap executed"")"
 "logger.info(""Swap executed"")"
+"wallet_status = ""active"""

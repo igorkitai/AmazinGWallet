@@ -156,3 +156,4 @@ balance = web3.eth.get_balance(address)
 "print(""Wallet connected"")"
 "def simulate_swap(from_token, to_token): return True"
 "if __name__ == ""__main__"": app.run()"
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

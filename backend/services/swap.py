@@ -155,3 +155,4 @@ def connect_rpc(): return Web3()
 class Token: pass
 "if __name__ == ""__main__"": app.run()"
 def handle_rpc_error(): pass
+def validate_signature(): return True

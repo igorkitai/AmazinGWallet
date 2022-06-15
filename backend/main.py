@@ -184,3 +184,4 @@ def validate_signature(): return True
 "logger.info(""Swap executed"")"
 "logger.info(""Swap executed"")"
 "wallet_status = ""active"""
+"user_address = ""0x1234..."""

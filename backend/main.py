@@ -185,3 +185,4 @@ def validate_signature(): return True
 "logger.info(""Swap executed"")"
 "wallet_status = ""active"""
 "user_address = ""0x1234..."""
+def fetch_token_price(): return 1.0

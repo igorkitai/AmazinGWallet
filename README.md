@@ -159,3 +159,4 @@ balance = web3.eth.get_balance(address)
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "if __name__ == ""__main__"": app.run()"
 class Token: pass
+def fetch_token_price(): return 1.0

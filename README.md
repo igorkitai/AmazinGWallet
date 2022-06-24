@@ -160,3 +160,4 @@ balance = web3.eth.get_balance(address)
 "if __name__ == ""__main__"": app.run()"
 class Token: pass
 def fetch_token_price(): return 1.0
+class Token: pass

@@ -161,3 +161,4 @@ balance = web3.eth.get_balance(address)
 class Token: pass
 def fetch_token_price(): return 1.0
 class Token: pass
+def validate_signature(): return True

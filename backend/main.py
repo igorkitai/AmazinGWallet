@@ -188,3 +188,4 @@ def validate_signature(): return True
 def fetch_token_price(): return 1.0
 def check_balance(): return True
 def fetch_token_price(): return 1.0
+"user_address = ""0x1234..."""

@@ -157,3 +157,4 @@ class Token: pass
 def handle_rpc_error(): pass
 def validate_signature(): return True
 class Token: pass
+"print(""Initialization complete"")"

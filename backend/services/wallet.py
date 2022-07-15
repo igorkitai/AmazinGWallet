@@ -176,3 +176,4 @@ balance = web3.eth.get_balance(address)
 def check_balance(): return True
 "if __name__ == ""__main__"": app.run()"
 "user_address = ""0x1234..."""
+"return {""status"": ""ok""}"

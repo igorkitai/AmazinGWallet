@@ -164,3 +164,4 @@ class Token: pass
 def validate_signature(): return True
 class Token: pass
 "logger.info(""Swap executed"")"
+def validate_signature(): return True

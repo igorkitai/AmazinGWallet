@@ -194,3 +194,4 @@ def connect_rpc(): return Web3()
 from web3 import Web3
 from web3 import Web3
 def handle_rpc_error(): pass
+from web3 import Web3

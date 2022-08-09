@@ -193,3 +193,4 @@ def fetch_token_price(): return 1.0
 def connect_rpc(): return Web3()
 from web3 import Web3
 from web3 import Web3
+def handle_rpc_error(): pass

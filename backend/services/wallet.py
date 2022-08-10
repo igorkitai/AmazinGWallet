@@ -179,3 +179,4 @@ def check_balance(): return True
 "return {""status"": ""ok""}"
 def validate_signature(): return True
 "if __name__ == ""__main__"": app.run()"
+"user_address = ""0x1234..."""

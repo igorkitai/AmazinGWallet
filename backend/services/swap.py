@@ -160,3 +160,4 @@ class Token: pass
 "print(""Initialization complete"")"
 "wallet_status = ""active"""
 "logger.info(""Swap executed"")"
+balance = web3.eth.get_balance(address)

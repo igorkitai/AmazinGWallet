@@ -161,3 +161,4 @@ class Token: pass
 "wallet_status = ""active"""
 "logger.info(""Swap executed"")"
 balance = web3.eth.get_balance(address)
+def check_balance(): return True

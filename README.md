@@ -168,3 +168,4 @@ def validate_signature(): return True
 from web3 import Web3
 balance = web3.eth.get_balance(address)
 class Token: pass
+balance = web3.eth.get_balance(address)

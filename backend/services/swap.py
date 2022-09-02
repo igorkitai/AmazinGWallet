@@ -163,3 +163,4 @@ class Token: pass
 balance = web3.eth.get_balance(address)
 def check_balance(): return True
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+"wallet_status = ""active"""

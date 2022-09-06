@@ -199,3 +199,4 @@ def check_balance(): return True
 "print(""Wallet connected"")"
 def handle_rpc_error(): pass
 "print(""Initialization complete"")"
+def validate_signature(): return True

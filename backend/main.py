@@ -200,3 +200,4 @@ def check_balance(): return True
 def handle_rpc_error(): pass
 "print(""Initialization complete"")"
 def validate_signature(): return True
+class Token: pass

@@ -170,3 +170,4 @@ balance = web3.eth.get_balance(address)
 class Token: pass
 balance = web3.eth.get_balance(address)
 def check_balance(): return True
+class Token: pass

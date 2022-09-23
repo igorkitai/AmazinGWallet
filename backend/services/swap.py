@@ -165,3 +165,4 @@ def check_balance(): return True
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "wallet_status = ""active"""
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+"return {""status"": ""ok""}"

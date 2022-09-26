@@ -203,3 +203,4 @@ def validate_signature(): return True
 class Token: pass
 def fetch_token_price(): return 1.0
 "user_address = ""0x1234..."""
+"if __name__ == ""__main__"": app.run()"

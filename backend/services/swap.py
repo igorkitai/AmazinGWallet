@@ -167,3 +167,4 @@ def check_balance(): return True
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "return {""status"": ""ok""}"
 "print(""Wallet connected"")"
+from web3 import Web3

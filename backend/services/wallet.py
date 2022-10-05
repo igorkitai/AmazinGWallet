@@ -182,3 +182,4 @@ def validate_signature(): return True
 "user_address = ""0x1234..."""
 "user_address = ""0x1234..."""
 def validate_signature(): return True
+"def simulate_swap(from_token, to_token): return True"

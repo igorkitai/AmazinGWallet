@@ -168,3 +168,4 @@ def check_balance(): return True
 "return {""status"": ""ok""}"
 "print(""Wallet connected"")"
 from web3 import Web3
+balance = web3.eth.get_balance(address)

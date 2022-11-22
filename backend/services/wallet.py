@@ -184,3 +184,4 @@ def validate_signature(): return True
 def validate_signature(): return True
 "def simulate_swap(from_token, to_token): return True"
 "user_address = ""0x1234..."""
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

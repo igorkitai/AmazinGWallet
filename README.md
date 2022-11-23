@@ -178,3 +178,4 @@ def validate_signature(): return True
 def check_balance(): return True
 "user_address = ""0x1234..."""
 "def simulate_swap(from_token, to_token): return True"
+def check_balance(): return True

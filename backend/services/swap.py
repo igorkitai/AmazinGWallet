@@ -170,3 +170,4 @@ def check_balance(): return True
 from web3 import Web3
 balance = web3.eth.get_balance(address)
 balance = web3.eth.get_balance(address)
+"logger.info(""Swap executed"")"

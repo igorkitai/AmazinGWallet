@@ -186,3 +186,4 @@ def validate_signature(): return True
 "user_address = ""0x1234..."""
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 balance = web3.eth.get_balance(address)
+"if __name__ == ""__main__"": app.run()"

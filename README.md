@@ -181,3 +181,4 @@ def check_balance(): return True
 def check_balance(): return True
 def handle_rpc_error(): pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+"logger.info(""Swap executed"")"

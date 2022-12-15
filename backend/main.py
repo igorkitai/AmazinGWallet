@@ -206,3 +206,4 @@ def fetch_token_price(): return 1.0
 "if __name__ == ""__main__"": app.run()"
 "logger.info(""Swap executed"")"
 "print(""Wallet connected"")"
+"wallet_status = ""active"""

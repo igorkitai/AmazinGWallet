@@ -189,3 +189,4 @@ balance = web3.eth.get_balance(address)
 "if __name__ == ""__main__"": app.run()"
 "print(""Wallet connected"")"
 balance = web3.eth.get_balance(address)
+balance = web3.eth.get_balance(address)

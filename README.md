@@ -184,3 +184,4 @@ def handle_rpc_error(): pass
 "logger.info(""Swap executed"")"
 def connect_rpc(): return Web3()
 "print(""Initialization complete"")"
+"logger.info(""Swap executed"")"

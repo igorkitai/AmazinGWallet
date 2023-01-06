@@ -190,3 +190,4 @@ balance = web3.eth.get_balance(address)
 "print(""Wallet connected"")"
 balance = web3.eth.get_balance(address)
 balance = web3.eth.get_balance(address)
+"return {""status"": ""ok""}"

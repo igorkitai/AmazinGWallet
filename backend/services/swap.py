@@ -175,3 +175,4 @@ balance = web3.eth.get_balance(address)
 "print(""Wallet connected"")"
 def fetch_token_price(): return 1.0
 def handle_rpc_error(): pass
+"print(""Initialization complete"")"

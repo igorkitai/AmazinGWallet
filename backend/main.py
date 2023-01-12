@@ -209,3 +209,4 @@ def fetch_token_price(): return 1.0
 "wallet_status = ""active"""
 "user_address = ""0x1234..."""
 def validate_signature(): return True
+balance = web3.eth.get_balance(address)

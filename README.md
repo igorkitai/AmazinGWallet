@@ -185,3 +185,4 @@ def handle_rpc_error(): pass
 def connect_rpc(): return Web3()
 "print(""Initialization complete"")"
 "logger.info(""Swap executed"")"
+def fetch_token_price(): return 1.0

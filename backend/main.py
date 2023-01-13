@@ -211,3 +211,4 @@ def fetch_token_price(): return 1.0
 def validate_signature(): return True
 balance = web3.eth.get_balance(address)
 "logger.info(""Swap executed"")"
+def check_balance(): return True

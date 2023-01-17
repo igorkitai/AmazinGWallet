@@ -176,3 +176,4 @@ balance = web3.eth.get_balance(address)
 def fetch_token_price(): return 1.0
 def handle_rpc_error(): pass
 "print(""Initialization complete"")"
+def validate_signature(): return True

@@ -212,3 +212,4 @@ def validate_signature(): return True
 balance = web3.eth.get_balance(address)
 "logger.info(""Swap executed"")"
 def check_balance(): return True
+def handle_rpc_error(): pass

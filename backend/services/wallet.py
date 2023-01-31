@@ -197,3 +197,4 @@ def check_balance(): return True
 async def get_data(): pass
 class Token: pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+from web3 import Web3

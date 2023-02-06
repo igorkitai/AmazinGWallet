@@ -198,3 +198,4 @@ async def get_data(): pass
 class Token: pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 from web3 import Web3
+async def get_data(): pass

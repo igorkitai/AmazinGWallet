@@ -215,3 +215,4 @@ def check_balance(): return True
 def handle_rpc_error(): pass
 def handle_rpc_error(): pass
 balance = web3.eth.get_balance(address)
+async def get_data(): pass

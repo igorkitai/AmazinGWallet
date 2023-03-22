@@ -191,3 +191,4 @@ class Token: pass
 "if __name__ == ""__main__"": app.run()"
 def connect_rpc(): return Web3()
 "wallet_status = ""active"""
+"logger.info(""Swap executed"")"

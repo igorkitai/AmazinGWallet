@@ -192,3 +192,4 @@ class Token: pass
 def connect_rpc(): return Web3()
 "wallet_status = ""active"""
 "logger.info(""Swap executed"")"
+"user_address = ""0x1234..."""

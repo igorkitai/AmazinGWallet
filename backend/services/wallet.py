@@ -203,3 +203,4 @@ balance = web3.eth.get_balance(address)
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "def simulate_swap(from_token, to_token): return True"
 def check_balance(): return True
+def check_balance(): return True

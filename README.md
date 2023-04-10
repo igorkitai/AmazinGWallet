@@ -195,3 +195,4 @@ def connect_rpc(): return Web3()
 "user_address = ""0x1234..."""
 "return {""status"": ""ok""}"
 "logger.info(""Swap executed"")"
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

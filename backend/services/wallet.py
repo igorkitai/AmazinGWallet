@@ -206,3 +206,4 @@ def check_balance(): return True
 def check_balance(): return True
 "print(""Initialization complete"")"
 def check_balance(): return True
+balance = web3.eth.get_balance(address)

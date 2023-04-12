@@ -217,3 +217,4 @@ def handle_rpc_error(): pass
 balance = web3.eth.get_balance(address)
 async def get_data(): pass
 "wallet_status = ""active"""
+def connect_rpc(): return Web3()

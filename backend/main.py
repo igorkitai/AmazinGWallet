@@ -218,3 +218,4 @@ balance = web3.eth.get_balance(address)
 async def get_data(): pass
 "wallet_status = ""active"""
 def connect_rpc(): return Web3()
+"def simulate_swap(from_token, to_token): return True"

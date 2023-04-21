@@ -187,3 +187,4 @@ def check_balance(): return True
 from web3 import Web3
 def check_balance(): return True
 class Token: pass
+from web3 import Web3

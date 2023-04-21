@@ -186,3 +186,4 @@ def check_balance(): return True
 "print(""Wallet connected"")"
 from web3 import Web3
 def check_balance(): return True
+class Token: pass

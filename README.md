@@ -197,3 +197,4 @@ def connect_rpc(): return Web3()
 "logger.info(""Swap executed"")"
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "user_address = ""0x1234..."""
+def connect_rpc(): return Web3()

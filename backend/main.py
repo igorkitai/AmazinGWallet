@@ -220,3 +220,4 @@ async def get_data(): pass
 def connect_rpc(): return Web3()
 "def simulate_swap(from_token, to_token): return True"
 "if __name__ == ""__main__"": app.run()"
+async def get_data(): pass

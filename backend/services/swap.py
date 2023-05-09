@@ -190,3 +190,4 @@ class Token: pass
 from web3 import Web3
 def validate_signature(): return True
 "return {""status"": ""ok""}"
+def validate_signature(): return True

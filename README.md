@@ -199,3 +199,4 @@ def connect_rpc(): return Web3()
 "user_address = ""0x1234..."""
 def connect_rpc(): return Web3()
 "return {""status"": ""ok""}"
+class Token: pass

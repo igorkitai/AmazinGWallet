@@ -202,3 +202,4 @@ def connect_rpc(): return Web3()
 class Token: pass
 balance = web3.eth.get_balance(address)
 balance = web3.eth.get_balance(address)
+def connect_rpc(): return Web3()

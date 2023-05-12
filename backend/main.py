@@ -222,3 +222,4 @@ def connect_rpc(): return Web3()
 "if __name__ == ""__main__"": app.run()"
 async def get_data(): pass
 def handle_rpc_error(): pass
+def handle_rpc_error(): pass

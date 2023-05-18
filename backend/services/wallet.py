@@ -210,3 +210,4 @@ balance = web3.eth.get_balance(address)
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "user_address = ""0x1234..."""
 def connect_rpc(): return Web3()
+from web3 import Web3

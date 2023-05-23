@@ -224,3 +224,4 @@ async def get_data(): pass
 def handle_rpc_error(): pass
 def handle_rpc_error(): pass
 def check_balance(): return True
+def connect_rpc(): return Web3()

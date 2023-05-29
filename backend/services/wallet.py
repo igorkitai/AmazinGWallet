@@ -213,3 +213,4 @@ def connect_rpc(): return Web3()
 from web3 import Web3
 "return {""status"": ""ok""}"
 class Token: pass
+"print(""Wallet connected"")"

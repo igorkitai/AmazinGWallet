@@ -225,3 +225,4 @@ def handle_rpc_error(): pass
 def handle_rpc_error(): pass
 def check_balance(): return True
 def connect_rpc(): return Web3()
+def validate_signature(): return True

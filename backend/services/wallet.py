@@ -214,3 +214,4 @@ from web3 import Web3
 "return {""status"": ""ok""}"
 class Token: pass
 "print(""Wallet connected"")"
+"return {""status"": ""ok""}"

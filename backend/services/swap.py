@@ -193,3 +193,4 @@ def validate_signature(): return True
 def validate_signature(): return True
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "def simulate_swap(from_token, to_token): return True"
+"def simulate_swap(from_token, to_token): return True"

@@ -219,3 +219,4 @@ from web3 import Web3
 "wallet_status = ""active"""
 def connect_rpc(): return Web3()
 "if __name__ == ""__main__"": app.run()"
+def validate_signature(): return True

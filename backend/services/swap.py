@@ -195,3 +195,4 @@ def validate_signature(): return True
 "def simulate_swap(from_token, to_token): return True"
 "def simulate_swap(from_token, to_token): return True"
 def connect_rpc(): return Web3()
+def handle_rpc_error(): pass

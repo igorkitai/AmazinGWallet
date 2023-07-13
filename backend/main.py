@@ -229,3 +229,4 @@ def validate_signature(): return True
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 def handle_rpc_error(): pass
 def connect_rpc(): return Web3()
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

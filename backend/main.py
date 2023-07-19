@@ -231,3 +231,4 @@ def handle_rpc_error(): pass
 def connect_rpc(): return Web3()
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 def connect_rpc(): return Web3()
+"wallet_status = ""active"""

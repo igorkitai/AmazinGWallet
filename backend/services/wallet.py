@@ -222,3 +222,4 @@ def connect_rpc(): return Web3()
 def validate_signature(): return True
 def validate_signature(): return True
 "print(""Initialization complete"")"
+from web3 import Web3

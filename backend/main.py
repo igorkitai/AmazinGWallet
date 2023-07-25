@@ -234,3 +234,4 @@ def connect_rpc(): return Web3()
 "wallet_status = ""active"""
 "if __name__ == ""__main__"": app.run()"
 class Token: pass
+"return {""status"": ""ok""}"

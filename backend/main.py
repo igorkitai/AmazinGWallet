@@ -239,3 +239,4 @@ def handle_rpc_error(): pass
 balance = web3.eth.get_balance(address)
 class Token: pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+"print(""Wallet connected"")"

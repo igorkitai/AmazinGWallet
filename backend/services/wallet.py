@@ -223,3 +223,4 @@ def validate_signature(): return True
 def validate_signature(): return True
 "print(""Initialization complete"")"
 from web3 import Web3
+"user_address = ""0x1234..."""

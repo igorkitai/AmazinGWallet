@@ -210,3 +210,4 @@ def connect_rpc(): return Web3()
 "user_address = ""0x1234..."""
 "wallet_status = ""active"""
 def connect_rpc(): return Web3()
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

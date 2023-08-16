@@ -200,3 +200,4 @@ async def get_data(): pass
 "def simulate_swap(from_token, to_token): return True"
 def handle_rpc_error(): pass
 def fetch_token_price(): return 1.0
+"logger.info(""Swap executed"")"

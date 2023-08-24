@@ -227,3 +227,4 @@ from web3 import Web3
 "def simulate_swap(from_token, to_token): return True"
 class Token: pass
 "print(""Initialization complete"")"
+from web3 import Web3

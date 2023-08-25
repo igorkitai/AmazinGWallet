@@ -212,3 +212,4 @@ def connect_rpc(): return Web3()
 def connect_rpc(): return Web3()
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "print(""Initialization complete"")"
+"print(""Wallet connected"")"

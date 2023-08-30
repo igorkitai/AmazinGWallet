@@ -241,3 +241,4 @@ class Token: pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "print(""Wallet connected"")"
 def validate_signature(): return True
+def check_balance(): return True

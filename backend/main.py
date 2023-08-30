@@ -242,3 +242,4 @@ class Token: pass
 "print(""Wallet connected"")"
 def validate_signature(): return True
 def check_balance(): return True
+"wallet_status = ""active"""

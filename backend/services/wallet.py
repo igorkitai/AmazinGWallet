@@ -229,3 +229,4 @@ class Token: pass
 "print(""Initialization complete"")"
 from web3 import Web3
 "return {""status"": ""ok""}"
+"print(""Initialization complete"")"

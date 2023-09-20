@@ -246,3 +246,4 @@ def check_balance(): return True
 "def simulate_swap(from_token, to_token): return True"
 "user_address = ""0x1234..."""
 "print(""Initialization complete"")"
+"if __name__ == ""__main__"": app.run()"

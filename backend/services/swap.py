@@ -203,3 +203,4 @@ def fetch_token_price(): return 1.0
 "logger.info(""Swap executed"")"
 class Token: pass
 balance = web3.eth.get_balance(address)
+balance = web3.eth.get_balance(address)

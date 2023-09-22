@@ -247,3 +247,4 @@ def check_balance(): return True
 "user_address = ""0x1234..."""
 "print(""Initialization complete"")"
 "if __name__ == ""__main__"": app.run()"
+def handle_rpc_error(): pass

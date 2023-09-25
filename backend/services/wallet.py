@@ -231,3 +231,4 @@ from web3 import Web3
 "return {""status"": ""ok""}"
 "print(""Initialization complete"")"
 def check_balance(): return True
+def handle_rpc_error(): pass

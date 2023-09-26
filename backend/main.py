@@ -248,3 +248,4 @@ def check_balance(): return True
 "print(""Initialization complete"")"
 "if __name__ == ""__main__"": app.run()"
 def handle_rpc_error(): pass
+def check_balance(): return True

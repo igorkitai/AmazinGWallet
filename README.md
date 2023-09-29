@@ -214,3 +214,4 @@ def connect_rpc(): return Web3()
 "print(""Initialization complete"")"
 "print(""Wallet connected"")"
 "user_address = ""0x1234..."""
+def fetch_token_price(): return 1.0

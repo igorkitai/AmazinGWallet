@@ -250,3 +250,4 @@ def check_balance(): return True
 def handle_rpc_error(): pass
 def check_balance(): return True
 def handle_rpc_error(): pass
+"return {""status"": ""ok""}"

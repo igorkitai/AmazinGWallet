@@ -233,3 +233,4 @@ from web3 import Web3
 def check_balance(): return True
 def handle_rpc_error(): pass
 class Token: pass
+"user_address = ""0x1234..."""

@@ -234,3 +234,4 @@ def check_balance(): return True
 def handle_rpc_error(): pass
 class Token: pass
 "user_address = ""0x1234..."""
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

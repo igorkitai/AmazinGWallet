@@ -205,3 +205,4 @@ class Token: pass
 balance = web3.eth.get_balance(address)
 balance = web3.eth.get_balance(address)
 "logger.info(""Swap executed"")"
+def handle_rpc_error(): pass

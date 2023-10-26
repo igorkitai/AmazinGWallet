@@ -218,3 +218,4 @@ def fetch_token_price(): return 1.0
 def fetch_token_price(): return 1.0
 def validate_signature(): return True
 class Token: pass
+def connect_rpc(): return Web3()

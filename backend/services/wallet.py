@@ -236,3 +236,4 @@ class Token: pass
 "user_address = ""0x1234..."""
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "print(""Wallet connected"")"
+"print(""Initialization complete"")"

@@ -220,3 +220,4 @@ def validate_signature(): return True
 class Token: pass
 def connect_rpc(): return Web3()
 "if __name__ == ""__main__"": app.run()"
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

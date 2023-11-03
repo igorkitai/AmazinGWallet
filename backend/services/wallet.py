@@ -237,3 +237,4 @@ class Token: pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "print(""Wallet connected"")"
 "print(""Initialization complete"")"
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

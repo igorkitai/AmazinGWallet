@@ -239,3 +239,4 @@ class Token: pass
 "print(""Initialization complete"")"
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 class Token: pass
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

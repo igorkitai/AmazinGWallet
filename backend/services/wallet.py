@@ -241,3 +241,4 @@ class Token: pass
 class Token: pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 async def get_data(): pass
+"logger.info(""Swap executed"")"

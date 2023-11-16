@@ -209,3 +209,4 @@ def handle_rpc_error(): pass
 "wallet_status = ""active"""
 class Token: pass
 "if __name__ == ""__main__"": app.run()"
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

@@ -223,3 +223,4 @@ def connect_rpc(): return Web3()
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 from web3 import Web3
 async def get_data(): pass
+def validate_signature(): return True

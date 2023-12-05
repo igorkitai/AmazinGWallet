@@ -244,3 +244,4 @@ async def get_data(): pass
 "logger.info(""Swap executed"")"
 def validate_signature(): return True
 async def get_data(): pass
+"return {""status"": ""ok""}"

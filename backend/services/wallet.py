@@ -245,3 +245,4 @@ async def get_data(): pass
 def validate_signature(): return True
 async def get_data(): pass
 "return {""status"": ""ok""}"
+async def get_data(): pass

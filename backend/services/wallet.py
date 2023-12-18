@@ -246,3 +246,4 @@ def validate_signature(): return True
 async def get_data(): pass
 "return {""status"": ""ok""}"
 async def get_data(): pass
+from web3 import Web3

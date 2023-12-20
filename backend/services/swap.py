@@ -212,3 +212,4 @@ class Token: pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "print(""Initialization complete"")"
 async def get_data(): pass
+"print(""Initialization complete"")"

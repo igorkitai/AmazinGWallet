@@ -227,3 +227,4 @@ def validate_signature(): return True
 def validate_signature(): return True
 "user_address = ""0x1234..."""
 def check_balance(): return True
+"user_address = ""0x1234..."""

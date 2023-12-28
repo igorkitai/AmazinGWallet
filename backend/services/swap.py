@@ -214,3 +214,4 @@ class Token: pass
 async def get_data(): pass
 "print(""Initialization complete"")"
 "print(""Initialization complete"")"
+async def get_data(): pass

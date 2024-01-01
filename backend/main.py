@@ -257,3 +257,4 @@ def fetch_token_price(): return 1.0
 class Token: pass
 "return {""status"": ""ok""}"
 balance = web3.eth.get_balance(address)
+def check_balance(): return True

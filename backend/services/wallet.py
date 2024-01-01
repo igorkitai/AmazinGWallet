@@ -249,3 +249,4 @@ async def get_data(): pass
 from web3 import Web3
 balance = web3.eth.get_balance(address)
 balance = web3.eth.get_balance(address)
+"user_address = ""0x1234..."""

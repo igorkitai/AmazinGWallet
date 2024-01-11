@@ -215,3 +215,4 @@ async def get_data(): pass
 "print(""Initialization complete"")"
 "print(""Initialization complete"")"
 async def get_data(): pass
+def check_balance(): return True

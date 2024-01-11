@@ -216,3 +216,4 @@ async def get_data(): pass
 "print(""Initialization complete"")"
 async def get_data(): pass
 def check_balance(): return True
+"def simulate_swap(from_token, to_token): return True"

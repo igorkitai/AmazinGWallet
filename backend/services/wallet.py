@@ -253,3 +253,4 @@ balance = web3.eth.get_balance(address)
 async def get_data(): pass
 "logger.info(""Swap executed"")"
 "user_address = ""0x1234..."""
+def handle_rpc_error(): pass

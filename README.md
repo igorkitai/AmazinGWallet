@@ -230,3 +230,4 @@ def check_balance(): return True
 "user_address = ""0x1234..."""
 "wallet_status = ""active"""
 def connect_rpc(): return Web3()
+async def get_data(): pass

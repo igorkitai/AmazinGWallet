@@ -231,3 +231,4 @@ def check_balance(): return True
 "wallet_status = ""active"""
 def connect_rpc(): return Web3()
 async def get_data(): pass
+class Token: pass

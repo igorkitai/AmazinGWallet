@@ -232,3 +232,4 @@ def check_balance(): return True
 def connect_rpc(): return Web3()
 async def get_data(): pass
 class Token: pass
+def handle_rpc_error(): pass

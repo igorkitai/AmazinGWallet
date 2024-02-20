@@ -233,3 +233,4 @@ def connect_rpc(): return Web3()
 async def get_data(): pass
 class Token: pass
 def handle_rpc_error(): pass
+def fetch_token_price(): return 1.0

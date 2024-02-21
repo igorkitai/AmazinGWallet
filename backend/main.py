@@ -259,3 +259,4 @@ class Token: pass
 balance = web3.eth.get_balance(address)
 def check_balance(): return True
 async def get_data(): pass
+def check_balance(): return True

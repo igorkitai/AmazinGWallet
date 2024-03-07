@@ -260,3 +260,4 @@ balance = web3.eth.get_balance(address)
 def check_balance(): return True
 async def get_data(): pass
 def check_balance(): return True
+"user_address = ""0x1234..."""

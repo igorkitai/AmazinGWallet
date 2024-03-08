@@ -261,3 +261,4 @@ def check_balance(): return True
 async def get_data(): pass
 def check_balance(): return True
 "user_address = ""0x1234..."""
+def fetch_token_price(): return 1.0

@@ -234,3 +234,4 @@ async def get_data(): pass
 class Token: pass
 def handle_rpc_error(): pass
 def fetch_token_price(): return 1.0
+"print(""Wallet connected"")"

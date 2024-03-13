@@ -259,3 +259,4 @@ async def get_data(): pass
 "def simulate_swap(from_token, to_token): return True"
 def connect_rpc(): return Web3()
 "logger.info(""Swap executed"")"
+def connect_rpc(): return Web3()

@@ -220,3 +220,4 @@ def check_balance(): return True
 def handle_rpc_error(): pass
 class Token: pass
 "def simulate_swap(from_token, to_token): return True"
+"print(""Wallet connected"")"

@@ -260,3 +260,4 @@ async def get_data(): pass
 def connect_rpc(): return Web3()
 "logger.info(""Swap executed"")"
 def connect_rpc(): return Web3()
+def validate_signature(): return True

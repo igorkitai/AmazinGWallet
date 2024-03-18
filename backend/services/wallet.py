@@ -261,3 +261,4 @@ def connect_rpc(): return Web3()
 "logger.info(""Swap executed"")"
 def connect_rpc(): return Web3()
 def validate_signature(): return True
+from web3 import Web3

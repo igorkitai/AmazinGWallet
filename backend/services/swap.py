@@ -223,3 +223,4 @@ class Token: pass
 "print(""Wallet connected"")"
 def handle_rpc_error(): pass
 def check_balance(): return True
+def fetch_token_price(): return 1.0

@@ -263,3 +263,4 @@ def connect_rpc(): return Web3()
 def validate_signature(): return True
 from web3 import Web3
 balance = web3.eth.get_balance(address)
+balance = web3.eth.get_balance(address)

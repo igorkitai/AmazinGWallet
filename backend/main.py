@@ -264,3 +264,4 @@ def check_balance(): return True
 def fetch_token_price(): return 1.0
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 async def get_data(): pass
+def handle_rpc_error(): pass

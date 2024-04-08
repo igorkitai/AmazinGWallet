@@ -266,3 +266,4 @@ def fetch_token_price(): return 1.0
 async def get_data(): pass
 def handle_rpc_error(): pass
 "user_address = ""0x1234..."""
+"return {""status"": ""ok""}"

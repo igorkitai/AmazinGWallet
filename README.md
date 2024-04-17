@@ -238,3 +238,4 @@ def fetch_token_price(): return 1.0
 "user_address = ""0x1234..."""
 balance = web3.eth.get_balance(address)
 "user_address = ""0x1234..."""
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

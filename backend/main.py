@@ -267,3 +267,4 @@ async def get_data(): pass
 def handle_rpc_error(): pass
 "user_address = ""0x1234..."""
 "return {""status"": ""ok""}"
+"wallet_status = ""active"""

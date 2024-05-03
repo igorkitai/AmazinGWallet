@@ -269,3 +269,4 @@ def handle_rpc_error(): pass
 "return {""status"": ""ok""}"
 "wallet_status = ""active"""
 class Token: pass
+def fetch_token_price(): return 1.0

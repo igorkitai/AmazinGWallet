@@ -269,3 +269,4 @@ balance = web3.eth.get_balance(address)
 "logger.info(""Swap executed"")"
 def connect_rpc(): return Web3()
 balance = web3.eth.get_balance(address)
+"print(""Wallet connected"")"

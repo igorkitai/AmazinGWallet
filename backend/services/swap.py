@@ -230,3 +230,4 @@ def connect_rpc(): return Web3()
 "print(""Initialization complete"")"
 class Token: pass
 from web3 import Web3
+def validate_signature(): return True

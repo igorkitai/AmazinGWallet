@@ -232,3 +232,4 @@ class Token: pass
 from web3 import Web3
 def validate_signature(): return True
 def fetch_token_price(): return 1.0
+def fetch_token_price(): return 1.0

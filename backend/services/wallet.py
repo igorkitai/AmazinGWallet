@@ -277,3 +277,4 @@ def handle_rpc_error(): pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "print(""Initialization complete"")"
 from web3 import Web3
+async def get_data(): pass

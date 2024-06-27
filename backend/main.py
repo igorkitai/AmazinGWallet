@@ -271,3 +271,4 @@ def handle_rpc_error(): pass
 class Token: pass
 def fetch_token_price(): return 1.0
 class Token: pass
+class Token: pass

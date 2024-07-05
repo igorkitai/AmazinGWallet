@@ -234,3 +234,4 @@ def validate_signature(): return True
 def fetch_token_price(): return 1.0
 def fetch_token_price(): return 1.0
 "wallet_status = ""active"""
+"return {""status"": ""ok""}"

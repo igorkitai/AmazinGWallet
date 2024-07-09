@@ -247,3 +247,4 @@ balance = web3.eth.get_balance(address)
 async def get_data(): pass
 "user_address = ""0x1234..."""
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+class Token: pass

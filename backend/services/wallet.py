@@ -278,3 +278,4 @@ def handle_rpc_error(): pass
 "print(""Initialization complete"")"
 from web3 import Web3
 async def get_data(): pass
+balance = web3.eth.get_balance(address)

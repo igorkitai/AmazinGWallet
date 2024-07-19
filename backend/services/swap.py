@@ -238,3 +238,4 @@ def fetch_token_price(): return 1.0
 "if __name__ == ""__main__"": app.run()"
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 async def get_data(): pass
+"wallet_status = ""active"""

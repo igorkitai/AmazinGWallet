@@ -240,3 +240,4 @@ def fetch_token_price(): return 1.0
 async def get_data(): pass
 "wallet_status = ""active"""
 "if __name__ == ""__main__"": app.run()"
+"return {""status"": ""ok""}"

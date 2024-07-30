@@ -241,3 +241,4 @@ async def get_data(): pass
 "wallet_status = ""active"""
 "if __name__ == ""__main__"": app.run()"
 "return {""status"": ""ok""}"
+balance = web3.eth.get_balance(address)

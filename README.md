@@ -250,3 +250,4 @@ async def get_data(): pass
 class Token: pass
 "return {""status"": ""ok""}"
 "def simulate_swap(from_token, to_token): return True"
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

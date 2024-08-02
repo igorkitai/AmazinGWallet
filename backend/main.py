@@ -273,3 +273,4 @@ def fetch_token_price(): return 1.0
 class Token: pass
 class Token: pass
 "logger.info(""Swap executed"")"
+"if __name__ == ""__main__"": app.run()"

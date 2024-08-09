@@ -282,3 +282,4 @@ balance = web3.eth.get_balance(address)
 def handle_rpc_error(): pass
 def connect_rpc(): return Web3()
 def connect_rpc(): return Web3()
+def validate_signature(): return True

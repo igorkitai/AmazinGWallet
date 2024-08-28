@@ -284,3 +284,4 @@ def connect_rpc(): return Web3()
 def connect_rpc(): return Web3()
 def validate_signature(): return True
 class Token: pass
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

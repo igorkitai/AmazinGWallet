@@ -276,3 +276,4 @@ class Token: pass
 "if __name__ == ""__main__"": app.run()"
 def validate_signature(): return True
 from web3 import Web3
+"if __name__ == ""__main__"": app.run()"

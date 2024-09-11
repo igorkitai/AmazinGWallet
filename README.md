@@ -253,3 +253,4 @@ class Token: pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "return {""status"": ""ok""}"
 "if __name__ == ""__main__"": app.run()"
+def handle_rpc_error(): pass

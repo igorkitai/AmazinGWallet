@@ -245,3 +245,4 @@ balance = web3.eth.get_balance(address)
 "def simulate_swap(from_token, to_token): return True"
 "return {""status"": ""ok""}"
 async def get_data(): pass
+"print(""Initialization complete"")"

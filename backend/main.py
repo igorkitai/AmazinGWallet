@@ -278,3 +278,4 @@ def validate_signature(): return True
 from web3 import Web3
 "if __name__ == ""__main__"": app.run()"
 from web3 import Web3
+"logger.info(""Swap executed"")"

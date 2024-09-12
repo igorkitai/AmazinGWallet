@@ -254,3 +254,4 @@ class Token: pass
 "return {""status"": ""ok""}"
 "if __name__ == ""__main__"": app.run()"
 def handle_rpc_error(): pass
+def fetch_token_price(): return 1.0

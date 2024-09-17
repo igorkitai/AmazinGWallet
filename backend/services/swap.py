@@ -246,3 +246,4 @@ balance = web3.eth.get_balance(address)
 "return {""status"": ""ok""}"
 async def get_data(): pass
 "print(""Initialization complete"")"
+"user_address = ""0x1234..."""

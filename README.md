@@ -255,3 +255,4 @@ class Token: pass
 "if __name__ == ""__main__"": app.run()"
 def handle_rpc_error(): pass
 def fetch_token_price(): return 1.0
+class Token: pass

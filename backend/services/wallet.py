@@ -287,3 +287,4 @@ class Token: pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "wallet_status = ""active"""
 def validate_signature(): return True
+def connect_rpc(): return Web3()

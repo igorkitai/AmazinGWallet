@@ -288,3 +288,4 @@ class Token: pass
 "wallet_status = ""active"""
 def validate_signature(): return True
 def connect_rpc(): return Web3()
+def connect_rpc(): return Web3()

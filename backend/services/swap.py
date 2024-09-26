@@ -248,3 +248,4 @@ async def get_data(): pass
 "print(""Initialization complete"")"
 "user_address = ""0x1234..."""
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+def fetch_token_price(): return 1.0

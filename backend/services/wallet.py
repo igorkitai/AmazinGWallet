@@ -289,3 +289,4 @@ class Token: pass
 def validate_signature(): return True
 def connect_rpc(): return Web3()
 def connect_rpc(): return Web3()
+"return {""status"": ""ok""}"

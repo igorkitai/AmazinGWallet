@@ -250,3 +250,4 @@ async def get_data(): pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 def fetch_token_price(): return 1.0
 "return {""status"": ""ok""}"
+"return {""status"": ""ok""}"

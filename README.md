@@ -261,3 +261,4 @@ def handle_rpc_error(): pass
 async def get_data(): pass
 "logger.info(""Swap executed"")"
 "return {""status"": ""ok""}"
+def handle_rpc_error(): pass

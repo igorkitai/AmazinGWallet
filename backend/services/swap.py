@@ -251,3 +251,4 @@ async def get_data(): pass
 def fetch_token_price(): return 1.0
 "return {""status"": ""ok""}"
 "return {""status"": ""ok""}"
+def validate_signature(): return True

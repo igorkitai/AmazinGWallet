@@ -294,3 +294,4 @@ def connect_rpc(): return Web3()
 "return {""status"": ""ok""}"
 "if __name__ == ""__main__"": app.run()"
 def check_balance(): return True
+"return {""status"": ""ok""}"

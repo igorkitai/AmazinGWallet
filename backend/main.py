@@ -280,3 +280,4 @@ from web3 import Web3
 from web3 import Web3
 "logger.info(""Swap executed"")"
 "return {""status"": ""ok""}"
+balance = web3.eth.get_balance(address)

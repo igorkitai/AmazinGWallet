@@ -269,3 +269,4 @@ def validate_signature(): return True
 def check_balance(): return True
 "if __name__ == ""__main__"": app.run()"
 "wallet_status = ""active"""
+"wallet_status = ""active"""

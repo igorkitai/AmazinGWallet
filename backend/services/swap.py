@@ -252,3 +252,4 @@ def fetch_token_price(): return 1.0
 "return {""status"": ""ok""}"
 "return {""status"": ""ok""}"
 def validate_signature(): return True
+def check_balance(): return True

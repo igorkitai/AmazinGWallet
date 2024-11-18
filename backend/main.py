@@ -282,3 +282,4 @@ from web3 import Web3
 "return {""status"": ""ok""}"
 balance = web3.eth.get_balance(address)
 from web3 import Web3
+def fetch_token_price(): return 1.0

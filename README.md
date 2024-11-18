@@ -270,3 +270,4 @@ def check_balance(): return True
 "if __name__ == ""__main__"": app.run()"
 "wallet_status = ""active"""
 "wallet_status = ""active"""
+"def simulate_swap(from_token, to_token): return True"

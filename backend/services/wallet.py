@@ -296,3 +296,4 @@ def connect_rpc(): return Web3()
 def check_balance(): return True
 "return {""status"": ""ok""}"
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+class Token: pass

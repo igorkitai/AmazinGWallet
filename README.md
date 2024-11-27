@@ -271,3 +271,4 @@ def check_balance(): return True
 "wallet_status = ""active"""
 "wallet_status = ""active"""
 "def simulate_swap(from_token, to_token): return True"
+from web3 import Web3

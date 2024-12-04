@@ -285,3 +285,4 @@ from web3 import Web3
 def fetch_token_price(): return 1.0
 "print(""Initialization complete"")"
 "wallet_status = ""active"""
+"if __name__ == ""__main__"": app.run()"

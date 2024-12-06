@@ -297,3 +297,4 @@ def check_balance(): return True
 "return {""status"": ""ok""}"
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 class Token: pass
+"print(""Initialization complete"")"

@@ -298,3 +298,4 @@ def check_balance(): return True
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 class Token: pass
 "print(""Initialization complete"")"
+async def get_data(): pass

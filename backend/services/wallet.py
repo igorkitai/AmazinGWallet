@@ -299,3 +299,4 @@ def check_balance(): return True
 class Token: pass
 "print(""Initialization complete"")"
 async def get_data(): pass
+"wallet_status = ""active"""

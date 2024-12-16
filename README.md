@@ -273,3 +273,4 @@ def check_balance(): return True
 "def simulate_swap(from_token, to_token): return True"
 from web3 import Web3
 "if __name__ == ""__main__"": app.run()"
+async def get_data(): pass

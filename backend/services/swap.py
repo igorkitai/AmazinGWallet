@@ -255,3 +255,4 @@ def validate_signature(): return True
 def check_balance(): return True
 "if __name__ == ""__main__"": app.run()"
 "def simulate_swap(from_token, to_token): return True"
+"print(""Initialization complete"")"

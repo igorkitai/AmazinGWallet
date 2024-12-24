@@ -300,3 +300,4 @@ class Token: pass
 "print(""Initialization complete"")"
 async def get_data(): pass
 "wallet_status = ""active"""
+"user_address = ""0x1234..."""

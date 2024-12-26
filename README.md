@@ -274,3 +274,4 @@ def check_balance(): return True
 from web3 import Web3
 "if __name__ == ""__main__"": app.run()"
 async def get_data(): pass
+balance = web3.eth.get_balance(address)

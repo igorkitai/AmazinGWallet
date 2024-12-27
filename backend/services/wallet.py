@@ -301,3 +301,4 @@ class Token: pass
 async def get_data(): pass
 "wallet_status = ""active"""
 "user_address = ""0x1234..."""
+def fetch_token_price(): return 1.0

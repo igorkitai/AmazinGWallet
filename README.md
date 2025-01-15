@@ -277,3 +277,4 @@ async def get_data(): pass
 balance = web3.eth.get_balance(address)
 "print(""Wallet connected"")"
 "user_address = ""0x1234..."""
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

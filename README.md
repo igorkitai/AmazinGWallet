@@ -279,3 +279,4 @@ balance = web3.eth.get_balance(address)
 "user_address = ""0x1234..."""
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "wallet_status = ""active"""
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

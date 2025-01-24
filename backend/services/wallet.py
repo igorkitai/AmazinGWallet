@@ -303,3 +303,4 @@ async def get_data(): pass
 "user_address = ""0x1234..."""
 def fetch_token_price(): return 1.0
 "logger.info(""Swap executed"")"
+"def simulate_swap(from_token, to_token): return True"

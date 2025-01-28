@@ -290,3 +290,4 @@ def connect_rpc(): return Web3()
 "if __name__ == ""__main__"": app.run()"
 def connect_rpc(): return Web3()
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+"user_address = ""0x1234..."""

@@ -280,3 +280,4 @@ balance = web3.eth.get_balance(address)
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 "wallet_status = ""active"""
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+from web3 import Web3

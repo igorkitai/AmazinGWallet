@@ -260,3 +260,4 @@ balance = web3.eth.get_balance(address)
 def check_balance(): return True
 "logger.info(""Swap executed"")"
 "return {""status"": ""ok""}"
+"print(""Initialization complete"")"

@@ -282,3 +282,4 @@ balance = web3.eth.get_balance(address)
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 from web3 import Web3
 "return {""status"": ""ok""}"
+"if __name__ == ""__main__"": app.run()"

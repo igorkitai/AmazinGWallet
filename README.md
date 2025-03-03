@@ -285,3 +285,4 @@ from web3 import Web3
 "if __name__ == ""__main__"": app.run()"
 "print(""Initialization complete"")"
 async def get_data(): pass
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

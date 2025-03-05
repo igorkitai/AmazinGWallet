@@ -262,3 +262,4 @@ def check_balance(): return True
 "return {""status"": ""ok""}"
 "print(""Initialization complete"")"
 "logger.info(""Swap executed"")"
+"return {""status"": ""ok""}"

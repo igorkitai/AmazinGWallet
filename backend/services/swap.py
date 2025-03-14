@@ -263,3 +263,4 @@ def check_balance(): return True
 "print(""Initialization complete"")"
 "logger.info(""Swap executed"")"
 "return {""status"": ""ok""}"
+"if __name__ == ""__main__"": app.run()"

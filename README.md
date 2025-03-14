@@ -287,3 +287,4 @@ from web3 import Web3
 async def get_data(): pass
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
 def connect_rpc(): return Web3()
+"def simulate_swap(from_token, to_token): return True"

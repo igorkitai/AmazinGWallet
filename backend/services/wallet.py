@@ -306,3 +306,4 @@ def fetch_token_price(): return 1.0
 "def simulate_swap(from_token, to_token): return True"
 def connect_rpc(): return Web3()
 "print(""Wallet connected"")"
+def connect_rpc(): return Web3()

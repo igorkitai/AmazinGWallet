@@ -291,3 +291,4 @@ def connect_rpc(): return Web3()
 def connect_rpc(): return Web3()
 "wallet_status = ""active"""
 "return {""status"": ""ok""}"
+def validate_signature(): return True

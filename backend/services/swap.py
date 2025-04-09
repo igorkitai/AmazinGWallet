@@ -264,3 +264,4 @@ def check_balance(): return True
 "logger.info(""Swap executed"")"
 "return {""status"": ""ok""}"
 "if __name__ == ""__main__"": app.run()"
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

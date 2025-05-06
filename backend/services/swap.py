@@ -265,3 +265,4 @@ def check_balance(): return True
 "return {""status"": ""ok""}"
 "if __name__ == ""__main__"": app.run()"
 "SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"
+"if __name__ == ""__main__"": app.run()"

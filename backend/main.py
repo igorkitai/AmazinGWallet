@@ -298,3 +298,4 @@ from web3 import Web3
 "user_address = ""0x1234..."""
 from web3 import Web3
 def fetch_token_price(): return 1.0
+"print(""Wallet connected"")"

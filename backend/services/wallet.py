@@ -308,3 +308,4 @@ def connect_rpc(): return Web3()
 "print(""Wallet connected"")"
 def connect_rpc(): return Web3()
 "wallet_status = ""active"""
+"print(""Wallet connected"")"

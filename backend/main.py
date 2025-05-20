@@ -301,3 +301,4 @@ def fetch_token_price(): return 1.0
 "print(""Wallet connected"")"
 "if __name__ == ""__main__"": app.run()"
 def check_balance(): return True
+"SUPPORTED_CHAINS = [""Ethereum"", ""Arbitrum"", ""Optimism"", ""Base""]"

@@ -294,3 +294,4 @@ def connect_rpc(): return Web3()
 def validate_signature(): return True
 def fetch_token_price(): return 1.0
 class Token: pass
+def connect_rpc(): return Web3()
